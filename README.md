@@ -37,14 +37,23 @@ if you find SIFs useful give a star.
 
 # implementaion stories
 
-## strange idea
-When we recive this idea from our prof we stuck some dayes to relize that because there is no matiral but we find two websites solve this problem (or say work on this feature) and they :
+  ## New Idea
+  When we recive this idea from our prof we stuck some dayes to relize that because there is no matiral but we find two websites solve this problem (or say work on this feature) and they :
 
-* panopto
-* Algoritmia (demo)
+  * panopto
+  * Algoritmia (demo)
 
-## Chosoe Model 
+  ## Chosoe Model 
 
-YOLO v3 is at this moment the best choice because its superb speed -it’s incredibly fast and can process 45 frames per second. YOLO also understands generalized object representation.
+  YOLO v3 is at this moment the best choice because its superb speed -it’s incredibly fast and can process 45 frames per second. YOLO also understands generalized object representation.
 
+
+  ## Desktop UI
+
+  As you Know python is much complex to make desktop UI by it. At the first we decided to make the UI by python but python has many libraries to do that, after searching we get PyQt5 because it's easy and simple, But unfortunately we faced much bugs in our operating systems and some problems to bulid it at this moment we decided to use C# to make UI.
+
+
+  ## Database Mangment Systems
+
+  SQLite was our choice at the first but as usaul there some problems we could not to solve so we decided to use MySQL instead.
 
