@@ -19,4 +19,4 @@ if you find SIFs useful give a star.
 
 # UI/UX: 
 
-![](file name splash%20screen.png)
+![](//filename splash%20screen.png)
