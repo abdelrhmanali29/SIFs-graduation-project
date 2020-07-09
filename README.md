@@ -35,3 +35,16 @@ if you find SIFs useful give a star.
 
 ![runResults](https://user-images.githubusercontent.com/36866988/87023398-f160be00-c1d7-11ea-8166-8a695c8f5340.png)
 
+# implementaion stories
+
+## strange idea
+When we recive this idea from our prof we stuck some dayes to relize that because there is no matiral but we find two websites solve this problem (or say work on this feature) and they :
+
+* panopto
+* Algoritmia (demo)
+
+## Chosoe Model 
+
+YOLO v3 is at this moment the best choice because its superb speed -it’s incredibly fast and can process 45 frames per second. YOLO also understands generalized object representation.
+
+
